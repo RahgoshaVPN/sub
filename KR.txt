@@ -1,0 +1,5 @@
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.94.80:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@158.180.82.186:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@144.24.90.107:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.203.34:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.2.81:587?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒

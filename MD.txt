@@ -1,0 +1,1 @@
+vless://d854ce54-d193-4e13-9c0c-0125ecdec2de@195.133.11.229:443?security=tls&sni=knowledgemap.ubntddns.com&type=ws&host=knowledgemap.ubntddns.com&path=/getupdates#🔒

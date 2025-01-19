@@ -1,0 +1,10 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.110.104.30:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.77.212:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.116.185:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.76.79:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.79.51:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@49.212.216.50:443?security=tls&flow=xtls-rprx-vision&sni=os-v010.tama22.com&type=tcp#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.79.219:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed%3D2048#🔒
+vless://ede893a4-243f-4e9c-b2fc-31cd53e8c007@138.2.37.59:14228?security=reality&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&type=tcp&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.68.32:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.77.152:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
